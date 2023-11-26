@@ -1,0 +1,1656 @@
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\BlazorApp.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\BlazorApp.pdb
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.0.e2046jw31j.js
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\BlazorApp.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\BlazorApp.pdb.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.0.e2046jw31j.js.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\BlazorApp.staticwebassets.runtime.json
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\BlazorApp.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\BlazorApp.pdb
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.JSInterop.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.Pipelines.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.CSharp.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.AppContext.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Buffers.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Collections.Concurrent.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Collections.Immutable.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Collections.Specialized.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Collections.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.ComponentModel.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Configuration.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Console.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Core.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Data.Common.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Data.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Diagnostics.Process.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Drawing.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Drawing.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Formats.Tar.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Globalization.Calendars.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Globalization.Extensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Globalization.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.Compression.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.FileSystem.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.Pipes.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.IO.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Linq.Expressions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Linq.Parallel.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Linq.Queryable.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Linq.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Memory.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.Http.Json.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.Http.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.HttpListener.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.Mail.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.NameResolution.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.Ping.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.Quic.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.Requests.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.Security.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.ServicePoint.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.Sockets.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.WebClient.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.WebProxy.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.WebSockets.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Net.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Numerics.Vectors.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Numerics.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.ObjectModel.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Private.Uri.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Private.Xml.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Reflection.Emit.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Reflection.Extensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Reflection.Metadata.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Reflection.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Reflection.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Resources.Reader.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Resources.Writer.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.Extensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.Handles.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.Loader.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.Numerics.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.Serialization.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Runtime.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.AccessControl.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Claims.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.Principal.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.SecureString.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Security.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.ServiceModel.Web.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.ServiceProcess.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Text.Encoding.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Threading.Channels.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Threading.Overlapped.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Threading.Tasks.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Threading.Thread.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Threading.Timer.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Threading.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Transactions.Local.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Transactions.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.ValueTuple.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Web.HttpUtility.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Web.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Windows.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Xml.Linq.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Xml.Serialization.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Xml.XDocument.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Xml.XPath.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Xml.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\WindowsBase.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\mscorlib.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\netstandard.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\System.Private.CoreLib.dll
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\dotnet.js
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\dotnet.timezones.blat
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\dotnet.wasm
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\icudt.dat
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\icudt_CJK.dat
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\icudt_EFIGS.dat
+C:\Users\Were\BlazorApp\bin\Debug\net7.0\icudt_no_CJK.dat
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.AssemblyReference.cache
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfoInputs.cache
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfo.cs
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\J+TU35d+.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\cTUImWkj.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\cl+dzMel.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\8dcmbuJT.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\yNTOaweV.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\qmyTCjMN.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\qslbUaAE.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\W+bnIGb7.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\b9p1jiBx.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\SVUnGYRi.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\tIi2rqah.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\T67Wx6cT.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\ZqTF6B4t.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Vnr5JSN2.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\QrICCg9e.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\dujzFSoU.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\JIqU9FJ7.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Ew+e+Ph9.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\q0mWfrJ5.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\jY3Bkt62.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\xWlRbPkS.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\q28cPYOU.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\HLIYTDcv.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\LK+T7Ndq.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Szb8Y6lJ.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\xMQpHkkb.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\rwNGTnz+.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\zgW49MjY.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\11kTTsI0.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\SingBcUZ.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\o7CNd+M4.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\XSBDGivt.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\AIo9E7kI.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\YG7zVR+d.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\GM2Hue7O.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\uqhyEJ0H.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\RDNofDhf.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\eUyvIKrY.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Ty8GvwBz.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\yQpj5Yel.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\fNTMaBB3.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\1XndcqUT.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\jhVGulST.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\+rFqCuJp.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Cp9C6iqA.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\D5pBtcUy.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\JMheXFml.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\sAhxPFNs.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\CZQ4a7hz.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\GsmKoGDc.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\bIc+0dY8.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\yLkjYWUe.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Mmr90fqR.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\ftEhMP3Y.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\pRaYTfZT.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\SxLCbnsc.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\jQo1awLn.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\DutwGSZS.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\PY9KVb9h.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\45+KOZsi.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\cxNE515L.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Tx9bgck6.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\ikzkhqVM.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\63+o54d0.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Afi3NatD.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\3u5Nfvjb.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\e+IHjema.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Fmr876vO.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\kY8wP1rB.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\fnXESE+D.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\9PptM47S.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\7FKoL5Gn.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\KVFtHPjw.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\JNjroDrm.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\N1dQIUXV.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\RUlIpb03.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\1c+eanC5.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\paE8BLDc.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\0+RU9qaw.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\K3MgjMmi.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\vuapxtsZ.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Gvmzj619.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\MMQZvEfP.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\qOHeT+00.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\FA37lf49.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\lqcSrdxA.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\ogL8BZ46.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Sd3ebnLA.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\aMfX0xHJ.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\JIHs5V7r.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\oPhj3jfS.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\QgQz+bU8.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\OZsnbMz2.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\cHY8psK5.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\v086q1Sf.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\b9hby4cj.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\vS+++e+d.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\cj0y70SF.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\7Eq5XymF.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\g+OzROxE.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\MroArBKU.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\s+Zyq1qJ.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\D7YhV9Kg.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\cpSec7yX.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\gh9kBoV3.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\4s1lKDyf.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Tt53IZvJ.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\bjc73dpR.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\PM76nUGG.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\5N+gpUfj.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\GpFN76VU.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\z9LTwpDq.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\brW+0u9O.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\bQgpHGs7.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\0eqpyQ+e.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\wAJQZsGT.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\v3OD6Xii.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\XMeKAMXr.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\R02oRL0u.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Z1DBg0Bb.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\u01YHXHk.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\St425DVh.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\8Ig8Jmg6.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\47HLWVPy.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\wITX8M+z.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\7GRUXWTQ.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\ON6rcnge.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Xu41W8Nz.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\+3R5w74i.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\khXVHE+6.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\jZmoIcaS.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\ZKOf+c4I.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\4+4WInFY.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\H3zNe6Nr.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\fWIlpUlN.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Z4Fdhda+.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\PAiiEZmw.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\3XpgAA07.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\ft0MHzMj.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\5CohZ+79.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\+ekTKK0r.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\4kx8j8c+.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\8tLflUsF.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\M6d0DM82.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\twY3HNCr.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\RZbZMpWU.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\YU+bqbfC.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\uTpRWku7.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\EZHq+BXC.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\xWaPRVRs.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\gcKDMhmY.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\FNj1UwGR.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\DNBlvTkx.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\RrCJJ1pz.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\VQeaeA+Y.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\ZU8qWH7l.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\eshoKJ6w.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\XWFv+p4V.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\b+8y9RdF.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\4yRwDrNO.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\+svjqS8H.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\gtrd6v+Q.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\MkMIICe4.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\7zaF+DcN.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\VlPAfTu+.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\9+TveIPw.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\70o1fEwL.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\UTQVh9n2.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Jpi1ogBw.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\rrmiUk5L.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\xhIUtf24.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\VBSrGjRl.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\POGMggIc.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\ELFPRDvH.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\9rjp491+.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\tEfLXb8c.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\AP4YUiD2.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\452K3qA5.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Qj7xh6Dz.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\ch6HVVFV.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\MkWCcBD9.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\g40NUoch.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\qhC2BsdG.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\XQ2Py011.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\x68G2JtK.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\9MDs31+H.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\0w12BeIN.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\gRAz6myI.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\XLedaHFJ.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\NTl6JTJ6.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\PMDCBJPN.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\XrtCXnBS.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\K3RpXE3b.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\bUSZt76R.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\jIxmYA6s.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\kZNhfoMX.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\Ox5pUxl9.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\q5rIfQGt.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\FQMGiTxD.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\nx3Kvn+m.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\build-gz\T0DBu8LY.gz
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\blazor.boot.json
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp.props
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\scopedcss\bundle\BlazorApp.styles.css
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CopyComplete
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\BlazorApp.dll
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\refint\BlazorApp.dll
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\BlazorApp.pdb
+C:\Users\Were\BlazorApp\obj\Debug\net7.0\ref\BlazorApp.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.0.e2046jw31j.js
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt.dat
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Core.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Quic.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Console.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt.dat.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Data.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\netstandard.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\blazor.webassembly.js.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Web.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Formats.Tar.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\dotnet.7.0.0.e2046jw31j.js.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\blazor.boot.json
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\BlazorApp.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\BlazorApp.pdb
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\BlazorApp.dll.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\wwwroot\_framework\BlazorApp.pdb.gz
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\BlazorApp.staticwebassets.runtime.json
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\BlazorApp.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\BlazorApp.pdb
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.JSInterop.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.CSharp.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.VisualBasic.Core.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Win32.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\Microsoft.Win32.Registry.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.AppContext.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Buffers.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Collections.Concurrent.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Collections.Immutable.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Collections.NonGeneric.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Collections.Specialized.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Collections.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.ComponentModel.Annotations.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.ComponentModel.DataAnnotations.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.ComponentModel.EventBasedAsync.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.ComponentModel.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.ComponentModel.TypeConverter.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.ComponentModel.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Configuration.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Console.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Core.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Data.Common.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Data.DataSetExtensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Data.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Diagnostics.Contracts.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Diagnostics.Debug.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Diagnostics.FileVersionInfo.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Diagnostics.Process.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Diagnostics.StackTrace.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Diagnostics.TextWriterTraceListener.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Diagnostics.Tools.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Diagnostics.TraceSource.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Diagnostics.Tracing.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Drawing.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Drawing.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Dynamic.Runtime.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Formats.Asn1.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Formats.Tar.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Globalization.Calendars.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Globalization.Extensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Globalization.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.Compression.Brotli.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.Compression.FileSystem.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.Compression.ZipFile.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.Compression.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.FileSystem.AccessControl.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.FileSystem.DriveInfo.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.FileSystem.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.FileSystem.Watcher.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.FileSystem.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.IsolatedStorage.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.MemoryMappedFiles.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.Pipes.AccessControl.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.Pipes.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.UnmanagedMemoryStream.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.IO.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Linq.Expressions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Linq.Parallel.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Linq.Queryable.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Linq.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Memory.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.Http.Json.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.Http.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.HttpListener.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.Mail.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.NameResolution.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.NetworkInformation.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.Ping.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.Quic.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.Requests.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.Security.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.ServicePoint.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.Sockets.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.WebClient.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.WebHeaderCollection.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.WebProxy.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.WebSockets.Client.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.WebSockets.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Net.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Numerics.Vectors.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Numerics.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.ObjectModel.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Private.DataContractSerialization.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Private.Uri.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Private.Xml.Linq.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Private.Xml.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Reflection.DispatchProxy.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Reflection.Emit.ILGeneration.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Reflection.Emit.Lightweight.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Reflection.Emit.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Reflection.Extensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Reflection.Metadata.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Reflection.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Reflection.TypeExtensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Reflection.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Resources.Reader.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Resources.ResourceManager.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Resources.Writer.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.CompilerServices.VisualC.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.Extensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.Handles.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.InteropServices.JavaScript.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.InteropServices.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.Intrinsics.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.Loader.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.Numerics.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.Serialization.Formatters.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.Serialization.Json.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.Serialization.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.Serialization.Xml.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.Serialization.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Runtime.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.AccessControl.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Claims.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.Algorithms.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.Cng.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.Csp.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.Encoding.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.OpenSsl.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.Primitives.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.X509Certificates.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Cryptography.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Principal.Windows.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.Principal.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.SecureString.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Security.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.ServiceModel.Web.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.ServiceProcess.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Text.Encoding.Extensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Text.Encoding.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Text.Json.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Text.RegularExpressions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Threading.Channels.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Threading.Overlapped.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Threading.Tasks.Dataflow.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Threading.Tasks.Extensions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Threading.Tasks.Parallel.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Threading.Tasks.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Threading.Thread.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Threading.ThreadPool.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Threading.Timer.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Threading.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Transactions.Local.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Transactions.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.ValueTuple.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Web.HttpUtility.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Web.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Windows.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Xml.Linq.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Xml.ReaderWriter.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Xml.Serialization.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Xml.XDocument.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Xml.XPath.XDocument.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Xml.XPath.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Xml.XmlDocument.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Xml.XmlSerializer.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Xml.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\WindowsBase.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\mscorlib.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\netstandard.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\System.Private.CoreLib.dll
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\dotnet.js
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\dotnet.timezones.blat
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\dotnet.wasm
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\icudt.dat
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\icudt_CJK.dat
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\icudt_EFIGS.dat
+D:\Github Repos\BlazorApp\bin\Debug\net7.0\icudt_no_CJK.dat
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.AssemblyReference.cache
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\BlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfoInputs.cache
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\BlazorApp.AssemblyInfo.cs
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CoreCompileInputs.cache
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\BlazorApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\J+TU35d+.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\cTUImWkj.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\cl+dzMel.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\8dcmbuJT.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\yNTOaweV.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\qmyTCjMN.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\qslbUaAE.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\W+bnIGb7.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\b9p1jiBx.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\SVUnGYRi.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\tIi2rqah.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\T67Wx6cT.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\ZqTF6B4t.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Vnr5JSN2.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\QrICCg9e.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\dujzFSoU.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\JIqU9FJ7.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Ew+e+Ph9.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\q0mWfrJ5.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\jY3Bkt62.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\xWlRbPkS.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\q28cPYOU.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\HLIYTDcv.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\LK+T7Ndq.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Szb8Y6lJ.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\xMQpHkkb.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\rwNGTnz+.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\zgW49MjY.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\11kTTsI0.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\SingBcUZ.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\o7CNd+M4.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\XSBDGivt.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\AIo9E7kI.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\YG7zVR+d.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\GM2Hue7O.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\uqhyEJ0H.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\RDNofDhf.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\eUyvIKrY.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Ty8GvwBz.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\yQpj5Yel.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\fNTMaBB3.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\1XndcqUT.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\jhVGulST.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\+rFqCuJp.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Cp9C6iqA.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\D5pBtcUy.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\JMheXFml.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\sAhxPFNs.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\CZQ4a7hz.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\GsmKoGDc.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\bIc+0dY8.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\yLkjYWUe.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Mmr90fqR.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\ftEhMP3Y.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\pRaYTfZT.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\SxLCbnsc.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\jQo1awLn.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\DutwGSZS.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\PY9KVb9h.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\45+KOZsi.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\cxNE515L.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Tx9bgck6.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\ikzkhqVM.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\63+o54d0.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Afi3NatD.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\3u5Nfvjb.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\e+IHjema.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Fmr876vO.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\kY8wP1rB.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\fnXESE+D.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\9PptM47S.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\7FKoL5Gn.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\KVFtHPjw.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\JNjroDrm.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\N1dQIUXV.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\RUlIpb03.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\1c+eanC5.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\paE8BLDc.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\0+RU9qaw.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\K3MgjMmi.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\vuapxtsZ.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Gvmzj619.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\MMQZvEfP.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\qOHeT+00.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\FA37lf49.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\lqcSrdxA.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\ogL8BZ46.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Sd3ebnLA.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\aMfX0xHJ.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\JIHs5V7r.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\oPhj3jfS.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\QgQz+bU8.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\OZsnbMz2.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\cHY8psK5.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\v086q1Sf.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\b9hby4cj.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\vS+++e+d.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\cj0y70SF.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\7Eq5XymF.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\g+OzROxE.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\MroArBKU.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\s+Zyq1qJ.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\D7YhV9Kg.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\cpSec7yX.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\gh9kBoV3.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\4s1lKDyf.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Tt53IZvJ.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\bjc73dpR.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\PM76nUGG.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\5N+gpUfj.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\GpFN76VU.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\z9LTwpDq.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\brW+0u9O.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\bQgpHGs7.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\0eqpyQ+e.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\wAJQZsGT.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\v3OD6Xii.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\XMeKAMXr.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\R02oRL0u.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Z1DBg0Bb.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\u01YHXHk.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\St425DVh.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\8Ig8Jmg6.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\47HLWVPy.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\wITX8M+z.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\7GRUXWTQ.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\ON6rcnge.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Xu41W8Nz.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\+3R5w74i.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\khXVHE+6.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\jZmoIcaS.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\ZKOf+c4I.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\4+4WInFY.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\H3zNe6Nr.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\fWIlpUlN.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Z4Fdhda+.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\PAiiEZmw.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\3XpgAA07.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\ft0MHzMj.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\5CohZ+79.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\+ekTKK0r.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\4kx8j8c+.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\8tLflUsF.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\M6d0DM82.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\twY3HNCr.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\RZbZMpWU.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\YU+bqbfC.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\uTpRWku7.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\EZHq+BXC.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\xWaPRVRs.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\gcKDMhmY.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\FNj1UwGR.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\DNBlvTkx.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\RrCJJ1pz.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\VQeaeA+Y.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\ZU8qWH7l.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\eshoKJ6w.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\XWFv+p4V.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\b+8y9RdF.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\4yRwDrNO.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\+svjqS8H.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\gtrd6v+Q.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\MkMIICe4.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\7zaF+DcN.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\VlPAfTu+.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\9+TveIPw.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\70o1fEwL.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\UTQVh9n2.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Jpi1ogBw.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\rrmiUk5L.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\xhIUtf24.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\VBSrGjRl.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\POGMggIc.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\ELFPRDvH.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\9rjp491+.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\tEfLXb8c.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\AP4YUiD2.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\452K3qA5.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Qj7xh6Dz.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\ch6HVVFV.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\MkWCcBD9.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\g40NUoch.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\qhC2BsdG.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\XQ2Py011.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\x68G2JtK.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\9MDs31+H.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\0w12BeIN.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\gRAz6myI.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\XLedaHFJ.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\NTl6JTJ6.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\PMDCBJPN.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\XrtCXnBS.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\K3RpXE3b.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\bUSZt76R.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\jIxmYA6s.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\kZNhfoMX.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\Ox5pUxl9.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\q5rIfQGt.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\+r3WSyyj.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\il8AUy+Z.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\build-gz\T0DBu8LY.gz
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\blazor.boot.json
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorApp.props
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorApp.props
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorApp.props
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\scopedcss\bundle\BlazorApp.styles.css
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorApp.bundle.scp.css
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\BlazorApp.csproj.CopyComplete
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\BlazorApp.dll
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\refint\BlazorApp.dll
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\BlazorApp.pdb
+D:\Github Repos\BlazorApp\obj\Debug\net7.0\ref\BlazorApp.dll
